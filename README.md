@@ -1,5 +1,5 @@
-# Translate
-Translate project
+# Translate project
+
 1、功能：
 get_audio.py 批量提取录音文件
 whisper_tool.py 语音文件转写成文本
